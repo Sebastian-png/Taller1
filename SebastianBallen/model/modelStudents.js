@@ -1,23 +1,28 @@
 const data= [
     {
-        "name": "Sofia Alejandra",
-        "lastName":"Cardenas Tovar",
-        "age":"19"
-    },
-    {
-        "name": "Samuel",
-        "lastName":"Paez",
-        "age":"22"
-    },
-    {
-        "name": "Zully Catherine",
-        "lastName":"Tovar Hernandez",
-        "age":"50"
-    },
-    {
-        "name": "Juan Diego",
-        "lastName":"Moreno Tovar",
+        "name": "Sebastian",
+        "lastName":"Ballen Loaiza",
         "age":"20"
+    },
+    {
+        "name": "Hary Yulian",
+        "lastName":"Mendez Barreto",
+        "age":"20"
+    },
+    {
+        "name": "Maria Angelica",
+        "lastName":"Ballen Loaiza",
+        "age":"24"
+    },
+    {
+        "name": "Luis Enrique",
+        "lastName":"Bautista Loaiza",
+        "age":"13"
+    },
+    {
+        "name": "Luisa Fernanda",
+        "lastName":"Loaiza Avila",
+        "age":"33"
     },
 ];
 
